@@ -1,0 +1,11 @@
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\bin\Debug\baitap2_lab4.exe.config
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\bin\Debug\baitap2_lab4.exe
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\bin\Debug\baitap2_lab4.pdb
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.Form1.resources
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.Properties.Resources.resources
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.exe
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.pdb
+C:\Users\ABC\source\repos\baitap2_lab4\baitap2_lab4\obj\Debug\baitap2_lab4.exe.config
