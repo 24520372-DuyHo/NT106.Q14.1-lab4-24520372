@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\listfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\listfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\listfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\listfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\detailfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\detailfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\detailfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\detailfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\detailfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\detailfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|c:\\users\\abc\\source\\repos\\bai4_lab4\\bai4_lab4\\listfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153843A6-B849-4559-ABFB-A95C8CE0EA82}|bai4_lab4\\bai4_lab4.csproj|solutionrelative:bai4_lab4\\listfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Movie.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\Movie.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\Movie.cs",
+              "RelativeToolTip": "bai4_lab4\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:57:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.cs",
+              "RelativeToolTip": "bai4_lab4\\BookingForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:56:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\BookingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\BookingForm.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:55:54.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\BookingForm.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:55:50.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailFilm.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\DetailFilm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.cs",
+              "RelativeToolTip": "bai4_lab4\\DetailFilm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:53:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailFilm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\DetailFilm.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\DetailFilm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:53:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailFilm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\DetailFilm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\DetailFilm.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\DetailFilm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:53:17.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListFilm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.Designer.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\ListFilm.Designer.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.Designer.cs",
+              "RelativeToolTip": "bai4_lab4\\ListFilm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:48:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListFilm.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\ListFilm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.cs",
+              "RelativeToolTip": "bai4_lab4\\ListFilm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAApwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:48:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListFilm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.cs",
+              "RelativeDocumentMoniker": "bai4_lab4\\ListFilm.cs",
+              "ToolTip": "C:\\Users\\ABC\\source\\repos\\bai4_lab4\\bai4_lab4\\ListFilm.cs [Design]",
+              "RelativeToolTip": "bai4_lab4\\ListFilm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:48:25.774Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
